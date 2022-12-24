@@ -2,11 +2,11 @@ import React from 'react';
 
 const Banner = () => {
   return (
-    <div className='h-screen'>
+    <div id="home" className='h-[90vh] lg:h-screen'>
       <section className="bg-dark text-white">
         <div className="mx-auto max-w-screen-xl px-4 py-32 lg:flex lg:h-screen lg:items-center">
           <div className="mx-auto max-w-3xl text-center">
-            <h1 className="bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 bg-clip-text text-5xl font-bold text-transparent sm:text-8xl font-siliguri pt-4 -mt-20">
+            <h1 className="bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 bg-clip-text text-5xl font-bold text-transparent sm:text-8xl font-siliguri pt-4 mt-8 lg:-mt-20">
               আশু কম্পিউটার
               {/* <span className="sm:block"> Increase Conversion. </span> */}
             </h1>

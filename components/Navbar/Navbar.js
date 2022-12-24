@@ -7,7 +7,7 @@ const Navbar = () => {
     <li role="none" className="flex items-stretch">
       <Link
         className="flex items-center gap-2 py-4 transition-colors duration-300 hover:text-cyan-500 focus:bg-emerald-50 focus:outline-none focus-visible:outline-none lg:px-8"
-        href="/"
+        href="#home"
       >
         <span>হোম</span>
       </Link>
@@ -15,7 +15,7 @@ const Navbar = () => {
     <li role="none" className="flex items-stretch">
       <Link
         className="flex items-center gap-2 py-4 text-cyan-500 transition-colors duration-300 hover:text-cyan-600 focus:bg-emerald-50 focus:outline-none focus-visible:outline-none lg:px-8"
-        href="/"
+        href="#services"
       >
         <span>সেবাসমূহ</span>
       </Link>
@@ -31,7 +31,7 @@ const Navbar = () => {
     <li role="none" className="flex items-stretch">
       <Link
         className="flex items-center gap-2 py-4 transition-colors duration-300 hover:text-cyan-500 focus:bg-emerald-50 focus:outline-none focus-visible:outline-none lg:pl-8 lg:pr-0"
-        href="/"
+        href="#about"
       >
         <span>আমাদের সম্পর্কে</span>
       </Link>
