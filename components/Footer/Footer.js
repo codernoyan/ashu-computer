@@ -4,7 +4,7 @@ import React from 'react';
 const Footer = () => {
   return (
     <footer aria-label="Site Footer">
-      <div className="mx-auto max-w-screen-xl px-4 py-4 sm:px-6 lg:px-8">
+      <div className="mx-auto max-w-screen-xl px-2 py-4 sm:px-6 lg:px-0">
         <div className="sm:flex sm:items-center sm:justify-between">
           <div className="flex justify-center text-teal-600 sm:justify-start">
             <Link href="/"
