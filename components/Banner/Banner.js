@@ -6,8 +6,8 @@ const Banner = () => {
       <section className="bg-dark text-white">
         <div className="mx-auto max-w-screen-xl px-4 py-32 lg:flex lg:h-screen lg:items-center">
           <div className="mx-auto max-w-3xl text-center">
-            <h1 className="bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 bg-clip-text text-5xl font-bold text-transparent sm:text-8xl font-siliguri pt-4 mt-8 lg:-mt-20">
-              আশু কম্পিউটার
+            <h1 className="bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 bg-clip-text text-5xl font-bold text-transparent sm:text-6xl font-siliguri pt-4 mt-8 lg:-mt-20">
+              <span className="block">আশু কম্পিউটার এন্ড</span><span className="block">ডিজিটাল পোস্ট অফিস</span>
               {/* <span className="sm:block"> Increase Conversion. </span> */}
             </h1>
             <p className="mx-auto mt-4 max-w-xl sm:text-4xl sm:leading-relaxed font-medium font-siliguri">
