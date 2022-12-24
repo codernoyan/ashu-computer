@@ -7,7 +7,7 @@ const Services = () => {
         <h1 className="text-center text-4xl font-semibold">এক নজরে আমাদের <span className="text-cyan-500">সেবাসমূহ</span></h1>
       </div>
       <>
-        <div className="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-0 lg:py-20">
+        <div className="px-4 py-0 md:py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-0 lg:py-20">
           <div className="grid row-gap-8 sm:row-gap-0 sm:grid-cols-2 lg:grid-cols-3">
             <div className="p-8 border-b sm:border-r">
               <div className="max-w-md text-center">
