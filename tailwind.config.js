@@ -5,7 +5,14 @@ module.exports = {
     "./components/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        siliguri: ["Hind Siliguri", "sans-serif"]
+      },
+      colors: {
+        dark: '#181D31'
+      }
+    },
   },
   plugins: [],
 }
