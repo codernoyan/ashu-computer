@@ -6,7 +6,7 @@ const Contact = () => {
   return (
     <div id="contact" className="text-white font-siliguri">
       <div>
-        <h1 className="text-center text-4xl font-semibold">আমাদের সাথে <span className="text-cyan-500">যোগাযোগ</span></h1>
+        <h1 className="text-center text-2xl md:text-4xl font-semibold">আমাদের সাথে <span className="text-cyan-500">যোগাযোগ</span></h1>
       </div>
       <div className="grid grid-cols-1 gap-4 md:grid-cols-2 justify-items-center md:justify-items-between items-center text-center py-16">
         <div className="justify-self-center md:justify-self-start">

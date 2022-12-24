@@ -8,7 +8,7 @@ const Banner = () => {
           <div className="mx-auto max-w-3xl text-center">
             <h1 className="bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 bg-clip-text text-4xl font-bold text-transparent sm:text-7xl font-siliguri pt-4 mt-8 lg:-mt-20">
               <span className="block">আশু কম্পিউটার</span>
-              <span className="block text-5xl">এন্ড ডিজিটাল পোস্ট অফিস</span>
+              <span className="block text-3xl md:text-5xl">এন্ড ডিজিটাল পোস্ট অফিস</span>
               {/* <span className="sm:block"> Increase Conversion. </span> */}
             </h1>
             <p className="mx-auto mt-4 max-w-xl sm:text-4xl sm:leading-relaxed font-medium font-siliguri">
