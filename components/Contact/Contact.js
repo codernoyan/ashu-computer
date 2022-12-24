@@ -20,7 +20,7 @@ const Contact = () => {
           </div>
           <div>
             <p><span className="text-cyan-500">ফোন -</span> <a href="tel:+8801812541215">(+৮৮) ০১৮১২৫৪১২১৫</a> | <a href="tel:+8801812541215">+8801812-541215</a></p>
-            <p><span className="text-cyan-500">ই-মেইল -</span> <a href="mailto:ashucomputer@gmail.com">ashucomputer@gmail.com</a></p>
+            <p><span className="text-cyan-500">ই-মেইল -</span> <a href="mailto:ashucomputer.ctg@gmail.com">ashucomputer.ctg@gmail.com</a>, <a href="mailto:ashucomputer.ctg.ac@gmail.com">ashucomputer.ctg.ac@gmail.com</a></p>
           </div>
         </div>
       </div>
